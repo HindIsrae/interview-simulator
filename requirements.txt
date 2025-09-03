@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+python-multipart
+pdfminer.six
+pyresparser
+spacy
+python-dotenv
+pdfminer.six==20221105
+nameparser==1.1.2
+spacy>=3.7,<3.9
+PyYAML>=6.0
+
+# Audio / video
+vosk==0.3.45
+opencv-python==4.10.0.84      # ✅ last Windows wheel for 4.10.x
+sounddevice==0.4.7

@@ -1,0 +1,20 @@
+# Keys are section names in the parsed JSON; each value is a list of question templates.
+Contact Information:
+  - "Could you please introduce yourself briefly?"
+  - "Why did you choose to study in {{ Location }}?"
+
+Professional Summary:
+  - "Your summary mentions '{{ Professional Summary }}'. Can you expand?"
+
+Work Experience:
+  - "Tell me more about your role as {{ Position }} at {{ Company }}."
+  - "What was the biggest challenge during your time at {{ Company }}?"
+
+Education:
+  - "How has your coursework at {{ Institution }} prepared you for this role?"
+
+Skills & Interests:
+  - "Which programming language are you most comfortable with and why?"
+
+Projects:
+  - "Walk me through the {{ Title }} project. What was your contribution?"

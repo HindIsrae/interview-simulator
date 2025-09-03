@@ -1,0 +1,24 @@
+# virtual-envs
+.venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large / generated artefacts
+models/                     # Vosk, etc.
+transcript.json
+gestures.json
+questions.json
+report.md
+scorecard.json
+feedback.txt
+*.parsed.json
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
