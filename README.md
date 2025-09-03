@@ -1,5 +1,5 @@
-cat > README.md <<'EOF'
-# Offline Interview Suite
+
+# Interview Simulator
 
 > Parse a résumé → parse a job offer → auto-generate tailored questions → run a webcam + mic interview (speech-to-text, facial-gesture capture, live LLM feedback) → produce a Markdown report.  
 > **Fully local, CPU-only.** Powered by [Vosk](https://alphacephei.com/vosk/), [MediaPipe](https://mediapipe.dev/), and [Ollama](https://ollama.ai/).
